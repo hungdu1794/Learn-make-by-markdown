@@ -64,7 +64,7 @@ Or u can use as HTML
 - item 4
 
 ### Summary(Tóm tắt)
-u can read <img src="./markdown_syntax.webp" alt="Your Image" width="650" />
+u can read <img src="./img/Markdown_syntax.webp" alt="Your Image" width="650" />
 
 
 
