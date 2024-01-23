@@ -93,5 +93,3 @@ Nếu bạn không dùng cookie thì không cần quan tâm, vì no cookie no CS
 ## III. JWT (Json web token)
 ### 1. What is JWT?
 
-
-
